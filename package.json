@@ -22,7 +22,7 @@
   "homepage": "https://github.com/loafoe/mattermost-client#readme",
   "dependencies": {
     "https-proxy-agent": "^2.1.0",
-    "log": "^1.4.0",
+    "log": "^6.0.0",
     "ws": "^1.0.1",
     "text-encoding": "^0.5.5",
     "request": "^2.73.0"
